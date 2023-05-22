@@ -1,6 +1,7 @@
 ---
 layout: post
-titel: "7 Coaching Questions - The Coaching Habit by Michael Bungay Stanier "
+titel: "7 Coaching Questions - The Coaching Habit by Michael Bungay Stanier"
+author: idua537
 date: 2023-05-22
 ---
 
