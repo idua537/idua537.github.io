@@ -1,11 +1,11 @@
 ---
 layout: post
-titel: "7 Coaching Questions"
+titel: "7 Coaching Questions by Michael Bungay Stanier "
 author: idua537
 date: 2023-05-22
 ---
 
-# 7 Coaching Questions - The Coaching Habit by Michael Bungay Stanier
+# The 7 Coaching Questions
 
 The coaching habit framework allows every manager to coach effectively… by asking 7 questions:
 
